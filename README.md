@@ -1,7 +1,7 @@
 # AstroCompress Benchmark
 
 ### About
-This is a repository for benchmarking neural compression algorithms on the [AstroCompress Corpus][(https://huggingface.co/AnonAstroData](https://huggingface.co/AnonAstroData)).
+This is a repository for benchmarking neural compression algorithms on the [AstroCompress Corpus][(https://huggingface.co/AnonAstroData](https://huggingface.co/AnonAstroData).
 These neural compression algorithms are adapted from the original publication.
 
 ### Local setup
