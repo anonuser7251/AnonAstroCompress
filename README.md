@@ -1,8 +1,8 @@
 # AstroCompress Benchmark
 
 ### About
-This is a repository for benchmarking neural compression algorithms on the [AstroCompress Corpus](https://huggingface.co/AstroCompress).
-These neural compression algorithms are adapted from the original publication. For more details, please refer to the main paper [here]().
+This is a repository for benchmarking neural compression algorithms on the [AstroCompress Corpus][(https://huggingface.co/AnonAstroData](https://huggingface.co/AnonAstroData)).
+These neural compression algorithms are adapted from the original publication.
 
 ### Local setup
 To run the benchmark locally, clone the dataset of interest from the AstroCompress corpus to your local device. Ex:
