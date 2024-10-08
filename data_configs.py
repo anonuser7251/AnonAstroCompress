@@ -3,8 +3,8 @@
 
 
 # Change to your personal local hugging face cache directory
-DATA_CACHE_DIR = '/extra/ucibdl1/shared/data/astrocomp/.cache'
+DATA_CACHE_DIR = './.cache'
 # Use 'tiny' for tiny dataset for fast experimenting, change to 'full' for real training
 DATA_PROFILE = 'full'
 # Where local data is stored:
-LOCAL_DATA_ROOT = '/extra/ucibdl1/shared/data/astrocomp'
+LOCAL_DATA_ROOT = './'
